@@ -58,5 +58,7 @@
 ---
 
 💡 Favorite Quote
+
 "Sic Parvis Magna" – Greatness from small beginnings
+
 This quote reminds me that every expert once started as a beginner — it’s the journey, growth, and persistence that lead to mastery.
