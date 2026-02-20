@@ -21,28 +21,26 @@
 
 ### 🛠 Languages & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/> </p>
+
+---
+
+📊 Language Usage (Auto Calculated)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=URLeeo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" /> </p>
 
 ---
 
 ✨ About Me
 
-👨‍💻 Passionate about backend development with C#/.NET
+👨‍💻 .NET backend developer focused on building scalable and maintainable systems
 
-🧩 Interested in clean architecture, domain-driven design, and building scalable microservices
+🧩 Strong interest in Clean Architecture, Domain-Driven Design, and microservices
 
-🔍 I enjoy solving complex problems and continuously improving code quality
+⚡ Experienced with real-time systems using SignalR and distributed systems concepts
 
-🌱 Lifelong learner, always exploring new tools, patterns, and best practices
+📍 Working on location-based search, media handling (Cloudinary), and background jobs
+
+🌱 Currently improving system design skills and moving toward full-stack development
 
 ☕ Fun fact: I often find the root of bugs faster than I find my keys 😄
 
