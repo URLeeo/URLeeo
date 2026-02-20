@@ -25,8 +25,10 @@
 
 ---
 
-📊 Language Usage
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=URLeeo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" /> </p>
+## 📊 Language Usage (Auto Calculated)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=URLeeo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=URLeeo&theme=tokyonight)
 
 ---
 
