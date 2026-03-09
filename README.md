@@ -25,13 +25,6 @@
 
 ---
 
-## 📊 Language Usage (Auto Calculated)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=URLeeo&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=URLeeo&theme=tokyonight)
-
----
-
 ✨ About Me
 
 👨‍💻 .NET backend developer focused on building scalable and maintainable systems
