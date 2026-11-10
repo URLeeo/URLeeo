@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=CCD6F6&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Information%20Security&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header banner" />
 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="developer desk" width="480" />
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F8FD1&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Developer;Entity+Framework+Core+%7C+REST+APIs;Information+Security+Student;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
@@ -14,28 +16,31 @@
 
 <br/>
 
+## 🧑‍💻 About Me
+
 ```bash
-aslan@dev:~$ whoami
+leo@dev:~$ whoami
 ```
 > Backend Developer · C# / .NET · Information Security student
 
 ```bash
-aslan@dev:~$ cat about.txt
+leo@dev:~$ cat about.txt
 ```
 > ASP.NET Core, EF Core, and relational databases are home turf — building and
 > maintaining APIs, auth flows, and the boring-but-critical backend plumbing.
 >
 > Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
 >
-> Also builds game for fun — see BLACKOUT a few scrolls down.
+> Also builds full game engines in C# for fun — see BLACKOUT a few scrolls down.
 
 <br/>
 
-## `$ neofetch`
+## 🧩 Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,postgres,mysql,docker,git,postman,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,java,postgres,mysql,docker,git,postman&theme=dark&perline=10" /><br/><br/>
+<img src="https://img.shields.io/badge/SQL_Server_/_SSMS-112240?style=for-the-badge&logo=microsoftsqlserver&logoColor=CCD6F6" />
 
 <br/><br/>
 
@@ -45,7 +50,7 @@ aslan@dev:~$ cat about.txt
 
 <br/>
 
-## `$ git stats --live`
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -58,7 +63,7 @@ aslan@dev:~$ cat about.txt
 
 <br/>
 
-## `$ ls -la ~/achievements`
+## 🏆 Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=URLeeo&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
@@ -66,7 +71,7 @@ aslan@dev:~$ cat about.txt
 
 <br/>
 
-## `$ git log --oneline --graph experience.log`
+## 💼 Experience
 
 ```text
 * Dec 2025 – Feb 2026   Software Developer @ Kronos Enterprises Pty Ltd
@@ -90,7 +95,7 @@ aslan@dev:~$ cat about.txt
 
 <br/>
 
-## `$ ls -la ~/projects`
+## 🚀 Projects
 
 ```text
 drwxr-xr-x  Nexora/            business management · orgs, inventory, auto stock
@@ -103,7 +108,7 @@ drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
 
 <br/>
 
-## `$ cat education.txt`
+## 🎓 Education
 
 ```text
 [2023 – Present]  B.Sc. Information Security — Azerbaijan Technical University
@@ -114,7 +119,7 @@ drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
 
 <br/>
 
-## `$ echo $CONTACT`
+## 📬 Contact
 
 <div align="center">
 
