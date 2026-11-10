@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=CCD6F6&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Information%20Security&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,45:FD746C,100:FFA751&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=FFF8E7&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Information%20Security&descAlign=50&descAlignY=58&descSize=18&descColor=FFF8E7&animation=fadeIn" width="100%" alt="header banner" />
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="developer desk" width="480" />
 
@@ -55,19 +55,19 @@ aslan@dev:~$ cat about.txt
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/4F8FD1/URLeeo" alt="Contribution calendar" width="100%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=URLeeo&hide_border=true&bg_color=0A192F&color=8892B0&line=4F8FD1&point=CCD6F6&area=true&area_color=4F8FD1" alt="Activity Graph" width="100%" />
 
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## 💬 Random Dev Wisdom
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=URLeeo&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="a random programming quote, refreshes on every profile visit" />
 </div>
+
+<sub align="center">Refreshes with a new quote every time someone opens the profile.</sub>
 
 <br/>
 
@@ -128,6 +128,6 @@ drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
 
 <img src="https://komarev.com/ghpvc/?username=URLeeo&style=for-the-badge&color=112240&label=Profile+Views&labelColor=0A192F" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0A192F&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA751,45:FD746C,100:2C3E50&height=100&section=footer" width="100%" />
 
 </div>
