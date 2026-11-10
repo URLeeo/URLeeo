@@ -16,7 +16,11 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+<div align="center">
+<img src="assets/ribbon-about.svg" width="420" alt="About Me" />
+</div>
+
+<img align="right" width="150" src="assets/emblem-shield.svg" alt="shield emblem" />
 
 ```bash
 aslan@dev:~$ whoami
@@ -26,13 +30,13 @@ aslan@dev:~$ whoami
 ```bash
 aslan@dev:~$ cat about.txt
 ```
-> ASP.NET Core, EF Core, and relational databases are home turf — building and
-> maintaining APIs, auth flows, and the boring-but-critical backend plumbing.
+> I mainly work with ASP.NET Core, EF Core, and relational databases.
+> Building and maintaining APIs, auth flows, and backend infrastructure.
 >
-> Finishing a B.Sc. in Information Security at Azerbaijan Technical University,
-> alongside Red Team training — currently moving toward Application Security.
+> Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
+> Also doing Red Team training on the side, moving toward Application Security.
 >
-> Also builds full game engines in C# for fun — see BLACKOUT a few scrolls down.
+> I build full game engines in C# for fun too. Check out BLACKOUT below.
 
 <br/>
 
@@ -49,19 +53,14 @@ aslan@dev:~$ cat about.txt
 
 ## 🛡️ Security
 
-> Red Team training (Technion program, Azerbaijan Cybersecurity Center): Linux
-> hardening, network traffic analysis, pfSense firewalls, VLAN segmentation,
-> and web-app vulnerability testing — OWASP Top 10 focus. Working toward the
-> SAL1 (Security Analyst Level 1) SOC certification.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OWASP_Top_10-112240?style=for-the-badge&logo=owasp&logoColor=CCD6F6" />
-<img src="https://img.shields.io/badge/Linux-112240?style=for-the-badge&logo=linux&logoColor=CCD6F6" />
-<img src="https://img.shields.io/badge/pfSense-112240?style=for-the-badge&logoColor=CCD6F6" />
-<img src="https://img.shields.io/badge/Cisco_Certs-112240?style=for-the-badge&logo=cisco&logoColor=CCD6F6" />
-
-</div>
+> Alongside backend work, I'm doing Red Team training at the Azerbaijan
+> Cybersecurity Center. Started with Linux and networking fundamentals, then
+> moved into Active Directory, PowerShell, and security gateways. Now I'm on
+> the offensive side: penetration testing, web application hacking, OSINT,
+> and red vs. blue exercises, plus cloud security.
+>
+> This is what's pulling me from backend development toward Application
+> Security. Currently working toward the CWES certification.
 
 <br/>
 
@@ -86,7 +85,7 @@ aslan@dev:~$ cat about.txt
 * Dec 2025 – Feb 2026   Software Developer @ Kronos Enterprises Pty Ltd
 |     Built C#/.NET backend services for an international sports-event
 |     platform in Abu Dhabi. Added targeted logging to trace slow DB
-|     lookups in badge generation — cut processing time 35% (20→13 min).
+|     lookups in badge generation, cutting processing time 35% (20 to 13 min).
 |     Simplified the logic so routine changes need a config value, not
 |     a rewrite.
 |
@@ -97,14 +96,16 @@ aslan@dev:~$ cat about.txt
 |     management, dynamic filtering, geolocation search.
 |
 * Jun 2025 – Aug 2025    Backend Dev Intern & Instructor @ INNOWAY Academy
-      Learned C#/.NET, EF Core, and REST APIs hands-on — then taught
+      Learned C#/.NET, EF Core, and REST APIs hands-on, then taught
       them: reviewed student code, ran SOLID / clean-architecture
       lessons, helped debug GitHub issues.
 ```
 
 <br/>
 
-## 🚀 Projects
+<div align="center">
+<img src="assets/ribbon-projects.svg" width="420" alt="Projects" />
+</div>
 
 ```text
 drwxr-xr-x  Nexora/            business management · orgs, inventory, auto stock
@@ -120,18 +121,19 @@ drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
 ## 🎓 Education
 
 ```text
-[2023 – Present]  B.Sc. Information Security — Azerbaijan Technical University
-[2026 (Jul–Now)]  Red Team Training (Technion program) — Azerbaijan Cybersecurity Center
-[2026 (Feb–Jul)]  Software Development + AI Bootcamp — Ironhack
-[2025 – 2026   ]  Software Development — Code Academy | CodeForFuture
-[2024 – 2025   ]  Backend Development — INNOWAY Academy
+[2023 – Present]  B.Sc. Information Security: Azerbaijan Technical University
+[2026 (Jul–Now)]  Red Team Training (Technion program): Azerbaijan Cybersecurity Center
+[2026 (Feb–Jul)]  Software Development + AI Bootcamp: Ironhack
+[2025 – 2026   ]  Software Development: Code Academy | CodeForFuture
+[2024 – 2025   ]  Backend Development: INNOWAY Academy
 ```
 
 <br/>
 
-## 📬 Contact
-
 <div align="center">
+
+<img src="assets/ribbon-contact.svg" width="420" alt="Let's Connect" />
+<br/><br/>
 
 <a href="https://linkedin.com/in/aslan-mammadzada"><img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=CCD6F6" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-112240?style=for-the-badge&logo=gmail&logoColor=CCD6F6" /></a>
