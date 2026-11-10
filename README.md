@@ -14,36 +14,43 @@
 
 <br/>
 
-## 📌 About Me
+```bash
+aslan@dev:~$ whoami
+```
+> Backend Developer · C# / .NET · Information Security student
 
-> 💡 C#/.NET backend developer with professional experience building and maintaining web APIs using **ASP.NET Core**, **Entity Framework Core**, relational databases, authentication, and frontend integrations.
+```bash
+aslan@dev:~$ cat about.txt
+```
+> ASP.NET Core, EF Core, and relational databases are home turf — building and
+> maintaining APIs, auth flows, and the boring-but-critical backend plumbing.
 >
-> 🎓 Completing a bachelor's degree in **Information Security** at Azerbaijan Technical University — algorithms, mathematics, operating systems, and software development.
+> Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
 >
-> 🎮 Builds things outside of work too — including a full survival game engine in C# (see **BLACKOUT** below).
+> Also builds full game engines in C# for fun — see BLACKOUT a few scrolls down.
 
 <br/>
 
-## 🛠️ Tech Stack
+## `$ neofetch`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python&theme=dark&perline=6" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=6" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,postman,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,postgres,mysql,docker,git,postman,vscode&theme=dark&perline=9" />
+
+<br/><br/>
+
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=URLeeo&theme=mac" alt="terminal stats" width="100%" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## `$ git stats --live`
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=URLeeo&show_icons=true&hide_border=true&count_private=true&bg_color=0A192F&title_color=CCD6F6&icon_color=4F8FD1&text_color=8892B0&border_color=112240" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=URLeeo&hide_border=true&background=0A192F&border=112240&stroke=0A192F&ring=4F8FD1&fire=4F8FD1&currStreakNum=CCD6F6&sideNums=CCD6F6&currStreakLabel=8892B0&sideLabels=8892B0&dates=8892B0" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=URLeeo&layout=compact&hide_border=true&bg_color=0A192F&title_color=CCD6F6&text_color=8892B0&border_color=112240" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=URLeeo&hide_border=true&bg_color=0A192F&color=8892B0&line=4F8FD1&point=CCD6F6&area=true&area_color=4F8FD1" alt="Activity Graph" width="100%" />
 
@@ -51,7 +58,7 @@
 
 <br/>
 
-## 🏆 Trophy Case
+## `$ ls -la ~/achievements`
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=URLeeo&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
@@ -59,86 +66,57 @@
 
 <br/>
 
-## 💼 Experience
+## `$ git log --oneline --graph experience.log`
 
-<table width="100%">
-<tr>
-<td width="70%"><b>🧭 Software Developer</b><br/><i>Kronos Enterprises Pty Ltd</i></td>
-<td align="right"><sub>Dec 2025 – Feb 2026</sub></td>
-</tr>
-<tr>
-<td colspan="2">
-Built C#/.NET backend services for an international sports-event platform in Abu Dhabi. Added detailed logging to trace slow database lookups in badge generation and cut processing time by 35% (20 → 13 min). Simplified the badge-generation logic so routine changes only need a config value, not a code rewrite.
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td><b>🧭 Backend Developer</b><br/><i>RB Group of Companies</i></td>
-<td align="right"><sub>Jul – Nov 2025</sub></td>
-</tr>
-<tr>
-<td colspan="2">
-Helped rebuild a legacy application in three weeks, modernizing backend code and reorganizing 15+ API endpoints into modular services. Resolved CORS and integration issues to restore frontend–backend communication, and shipped real-time video-call/chat, vacancy management, dynamic filtering, and geolocation-based search.
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td><b>🧭 Backend Developer Intern & Instructor</b><br/><i>INNOWAY Academy</i></td>
-<td align="right"><sub>Jun – Aug 2025</sub></td>
-</tr>
-<tr>
-<td colspan="2">
-Built hands-on skills in C#/.NET, EF Core, and REST APIs, then taught them — reviewing student code, troubleshooting GitHub issues, and delivering lessons on SOLID principles and clean architecture.
-</td>
-</tr>
-</table>
+```text
+* Dec 2025 – Feb 2026   Software Developer @ Kronos Enterprises Pty Ltd
+|     Built C#/.NET backend services for an international sports-event
+|     platform in Abu Dhabi. Added targeted logging to trace slow DB
+|     lookups in badge generation — cut processing time 35% (20→13 min).
+|     Simplified the logic so routine changes need a config value, not
+|     a rewrite.
+|
+* Jul 2025 – Nov 2025    Backend Developer @ RB Group of Companies
+|     Helped rebuild a legacy app in 3 weeks: modernized backend code,
+|     reorganized 15+ API endpoints into modular services, fixed CORS
+|     + integration issues. Shipped real-time video/chat, vacancy
+|     management, dynamic filtering, geolocation search.
+|
+* Jun 2025 – Aug 2025    Backend Dev Intern & Instructor @ INNOWAY Academy
+      Learned C#/.NET, EF Core, and REST APIs hands-on — then taught
+      them: reviewed student code, ran SOLID / clean-architecture
+      lessons, helped debug GitHub issues.
+```
 
 <br/>
 
-## 🚀 Featured Projects
+## `$ ls -la ~/projects`
 
-<table width="100%">
-<tr><th align="left">Project</th><th align="left">Highlights</th></tr>
-<tr>
-<td valign="top">🏢<br/><b>Nexora</b><br/><sub>Business Management App</sub></td>
-<td>Product, customer, order, and inventory workflows with organization-scoped data, automatic stock tracking, full auth flow, and Owner/Staff roles.</td>
-</tr>
-<tr>
-<td valign="top">📍<br/><b>Loopin</b><br/><sub>Local Events Platform</sub></td>
-<td>Co-built event discovery, activity groups, join requests, and group chat across Spring Boot services and Next.js pages, integrated via OpenAPI-generated contracts.</td>
-</tr>
-<tr>
-<td valign="top">💼<br/><b>GlorriJob</b><br/><sub>Job Search Platform</sub></td>
-<td>Vacancy publishing, candidate/employer profiles, applications, role permissions, advanced filters, and geolocation search — built with a three-person backend team on EF Core + Aiven.</td>
-</tr>
-<tr>
-<td valign="top">🔦<br/><b>BLACKOUT</b><br/><sub>Survive the Dark</sub></td>
-<td>Top-down survival game in C# with its own game loop, movement, collision detection, battery drain, fear mechanics, and flashlight abilities.</td>
-</tr>
-<tr>
-<td valign="top">📄<br/><b>AboutMeApp</b><br/><sub>Portfolio / CV API</sub></td>
-<td>REST API for profiles, education, experience, certificates, and social links, with JWT auth, refresh tokens, role-based permissions, and a layered architecture.</td>
-</tr>
-<tr>
-<td valign="top">🛡️<br/><b>CVE Report Tool</b><br/><sub>Vulnerability Reporting</sub></td>
-<td>CLI tool combining vulnerability data from NVD, Exploit-DB, CISA KEV, and Vulmon — prioritizing CVEs by CVSS severity and real-world exploitation.</td>
-</tr>
-</table>
+```text
+drwxr-xr-x  Nexora/            business management · orgs, inventory, auto stock
+drwxr-xr-x  Loopin/            event discovery · Spring Boot + Next.js, co-built
+drwxr-xr-x  GlorriJob/         job platform · geolocation search, EF Core + Aiven
+drwxr-xr-x  BLACKOUT/          top-down survival game, built from scratch in C#
+drwxr-xr-x  AboutMeApp/        portfolio REST API · JWT auth, refresh tokens
+drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
+```
 
 <br/>
 
-## 🎓 Education
+## `$ cat education.txt`
 
-- 🏫 **B.Sc. Information Security** — Azerbaijan Technical University *(Sep 2023 – Present)*
-- 🤖 **Software Development + AI Bootcamp** — Ironhack *(Feb – Jul 2026)*
-- 💻 **Software Development** — Code Academy | CodeForFuture *(Sep 2025 – Jun 2026)*
-- ⚙️ **Backend Development** — INNOWAY Academy *(Oct 2024 – May 2025)*
+```text
+[2023 – Present]  B.Sc. Information Security — Azerbaijan Technical University
+[2026 (Feb–Jul)]  Software Development + AI Bootcamp — Ironhack
+[2025 – 2026   ]  Software Development — Code Academy | CodeForFuture
+[2024 – 2025   ]  Backend Development — INNOWAY Academy
+```
 
 <br/>
+
+## `$ echo $CONTACT`
 
 <div align="center">
-
-### 📫 Let's connect
 
 <a href="https://linkedin.com/in/aslan-mammadzada"><img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=CCD6F6" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-112240?style=for-the-badge&logo=gmail&logoColor=CCD6F6" /></a>
