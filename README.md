@@ -27,7 +27,7 @@ aslan@dev:~$ cat about.txt
 >
 > Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
 >
-> Also builds full game engines in C# for fun — see BLACKOUT a few scrolls down.
+> Also builds game for fun — see BLACKOUT a few scrolls down.
 
 <br/>
 
