@@ -19,12 +19,12 @@
 ## 🧑‍💻 About Me
 
 ```bash
-leo@dev:~$ whoami
+aslan@dev:~$ whoami
 ```
 > Backend Developer · C# / .NET · Information Security student
 
 ```bash
-leo@dev:~$ cat about.txt
+aslan@dev:~$ cat about.txt
 ```
 > ASP.NET Core, EF Core, and relational databases are home turf — building and
 > maintaining APIs, auth flows, and the boring-but-critical backend plumbing.
@@ -39,12 +39,8 @@ leo@dev:~$ cat about.txt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,java,postgres,mysql,docker,git,postman&theme=dark&perline=10" /><br/><br/>
-<img src="https://img.shields.io/badge/SQL_Server_/_SSMS-112240?style=for-the-badge&logo=microsoftsqlserver&logoColor=CCD6F6" />
-
-<br/><br/>
-
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=URLeeo&theme=mac" alt="terminal stats" width="100%" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,java,postgres,mysql,docker,git,postman&theme=dark&perline=10" />
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" alt="SQL Server / SSMS" width="48" height="48" style="margin: 4px;" />
 
 </div>
 
@@ -56,6 +52,10 @@ leo@dev:~$ cat about.txt
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=URLeeo&show_icons=true&hide_border=true&count_private=true&bg_color=0A192F&title_color=CCD6F6&icon_color=4F8FD1&text_color=8892B0&border_color=112240" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=URLeeo&hide_border=true&background=0A192F&border=112240&stroke=0A192F&ring=4F8FD1&fire=4F8FD1&currStreakNum=CCD6F6&sideNums=CCD6F6&currStreakLabel=8892B0&sideLabels=8892B0&dates=8892B0" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/4F8FD1/URLeeo" alt="Contribution calendar" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=URLeeo&hide_border=true&bg_color=0A192F&color=8892B0&line=4F8FD1&point=CCD6F6&area=true&area_color=4F8FD1" alt="Activity Graph" width="100%" />
 
