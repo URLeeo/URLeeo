@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python,js,ts&theme=dark&perline=6" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=6" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,postman,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,postman,vscode&theme=dark&perline=7" />
 
 </div>
 
@@ -133,16 +133,6 @@ Built hands-on skills in C#/.NET, EF Core, and REST APIs, then taught them — r
 - 🤖 **Software Development + AI Bootcamp** — Ironhack *(Feb – Jul 2026)*
 - 💻 **Software Development** — Code Academy | CodeForFuture *(Sep 2025 – Jun 2026)*
 - ⚙️ **Backend Development** — INNOWAY Academy *(Oct 2024 – May 2025)*
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/URLeeo/URLeeo/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating contribution graph" width="100%" />
-</div>
-
-<sub>One-time setup: add the paired `snake.yml` workflow file to `.github/workflows/snake.yml` in your `URLeeo/URLeeo` repo and push. A GitHub Action then regenerates this animation daily on an `output` branch — nothing else to maintain.</sub>
 
 <br/>
 
