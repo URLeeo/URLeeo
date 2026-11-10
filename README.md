@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,45:FD746C,100:FFA751&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=FFF8E7&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Moving%20into%20AppSec&descAlign=50&descAlignY=58&descSize=18&descColor=FFF8E7&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,45:FD746C,100:FFA751&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=FFF8E7&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Backend%20%2B%20AppSec&descAlign=50&descAlignY=58&descSize=18&descColor=FFF8E7&animation=fadeIn" width="100%" alt="header banner" />
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="developer desk" width="480" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F8FD1&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Developer;Entity+Framework+Core+%7C+REST+APIs;Moving+into+Application+Security;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F8FD1&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Developer;Entity+Framework+Core+%7C+REST+APIs;Backend+Dev+%2B+Application+Security;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/aslan-mammadzada"><img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=CCD6F6" /></a>
@@ -25,7 +25,7 @@
 ```bash
 aslan@dev:~$ whoami
 ```
-> Backend Developer · C# / .NET · moving into Application Security
+> Backend Developer · C# / .NET · also doing Application Security
 
 ```bash
 aslan@dev:~$ cat about.txt
@@ -34,7 +34,8 @@ aslan@dev:~$ cat about.txt
 > Building and maintaining APIs, auth flows, and backend infrastructure.
 >
 > Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
-> Also doing Red Team training on the side, moving toward Application Security.
+> Also doing Red Team training on the side. Backend development and
+> Application Security, both at once.
 >
 > I build full game engines in C# for fun too. Check out BLACKOUT below.
 
@@ -59,8 +60,8 @@ aslan@dev:~$ cat about.txt
 > the offensive side: penetration testing, web application hacking, OSINT,
 > and red vs. blue exercises, plus cloud security.
 >
-> This is what's pulling me from backend development toward Application
-> Security. Currently working toward the CWES certification.
+> I'm not choosing one over the other. Backend development and Application
+> Security, side by side. Currently working toward the CWES certification.
 
 <br/>
 
@@ -68,12 +69,7 @@ aslan@dev:~$ cat about.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=URLeeo&show_icons=true&hide_border=true&count_private=true&bg_color=0A192F&title_color=CCD6F6&icon_color=4F8FD1&text_color=8892B0&border_color=112240" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=URLeeo&hide_border=true&background=0A192F&border=112240&stroke=0A192F&ring=4F8FD1&fire=4F8FD1&currStreakNum=CCD6F6&sideNums=CCD6F6&currStreakLabel=8892B0&sideLabels=8892B0&dates=8892B0" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=URLeeo&hide_border=true&bg_color=0A192F&color=8892B0&line=4F8FD1&point=CCD6F6&area=true&area_color=4F8FD1" alt="Activity Graph" width="100%" />
 
 </div>
 
