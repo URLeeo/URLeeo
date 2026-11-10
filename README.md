@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,45:FD746C,100:FFA751&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=FFF8E7&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Information%20Security&descAlign=50&descAlignY=58&descSize=18&descColor=FFF8E7&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,45:FD746C,100:FFA751&height=220&section=header&text=Hey,%20I'm%20Aslan%20Mammadzada&fontSize=38&fontColor=FFF8E7&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Moving%20into%20AppSec&descAlign=50&descAlignY=58&descSize=18&descColor=FFF8E7&animation=fadeIn" width="100%" alt="header banner" />
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="developer desk" width="480" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F8FD1&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Developer;Entity+Framework+Core+%7C+REST+APIs;Information+Security+Student;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F8FD1&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+Backend+Developer;Entity+Framework+Core+%7C+REST+APIs;Moving+into+Application+Security;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/aslan-mammadzada"><img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=CCD6F6" /></a>
@@ -21,7 +21,7 @@
 ```bash
 aslan@dev:~$ whoami
 ```
-> Backend Developer · C# / .NET · Information Security student
+> Backend Developer · C# / .NET · moving into Application Security
 
 ```bash
 aslan@dev:~$ cat about.txt
@@ -29,7 +29,8 @@ aslan@dev:~$ cat about.txt
 > ASP.NET Core, EF Core, and relational databases are home turf — building and
 > maintaining APIs, auth flows, and the boring-but-critical backend plumbing.
 >
-> Finishing a B.Sc. in Information Security at Azerbaijan Technical University.
+> Finishing a B.Sc. in Information Security at Azerbaijan Technical University,
+> alongside Red Team training — currently moving toward Application Security.
 >
 > Also builds full game engines in C# for fun — see BLACKOUT a few scrolls down.
 
@@ -41,6 +42,24 @@ aslan@dev:~$ cat about.txt
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,java,postgres,mysql,docker,git,postman&theme=dark&perline=10" />
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" alt="SQL Server / SSMS" width="48" height="48" style="margin: 4px;" />
+
+</div>
+
+<br/>
+
+## 🛡️ Security
+
+> Red Team training (Technion program, Azerbaijan Cybersecurity Center): Linux
+> hardening, network traffic analysis, pfSense firewalls, VLAN segmentation,
+> and web-app vulnerability testing — OWASP Top 10 focus. Working toward the
+> SAL1 (Security Analyst Level 1) SOC certification.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OWASP_Top_10-112240?style=for-the-badge&logo=owasp&logoColor=CCD6F6" />
+<img src="https://img.shields.io/badge/Linux-112240?style=for-the-badge&logo=linux&logoColor=CCD6F6" />
+<img src="https://img.shields.io/badge/pfSense-112240?style=for-the-badge&logoColor=CCD6F6" />
+<img src="https://img.shields.io/badge/Cisco_Certs-112240?style=for-the-badge&logo=cisco&logoColor=CCD6F6" />
 
 </div>
 
@@ -102,6 +121,7 @@ drwxr-xr-x  cve-report-tool/   CLI merging NVD + Exploit-DB + CISA KEV + Vulmon
 
 ```text
 [2023 – Present]  B.Sc. Information Security — Azerbaijan Technical University
+[2026 (Jul–Now)]  Red Team Training (Technion program) — Azerbaijan Cybersecurity Center
 [2026 (Feb–Jul)]  Software Development + AI Bootcamp — Ironhack
 [2025 – 2026   ]  Software Development — Code Academy | CodeForFuture
 [2024 – 2025   ]  Backend Development — INNOWAY Academy
