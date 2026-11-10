@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python,js,ts,react,nextjs&theme=dark&perline=8" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=8" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,postman,vscode,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,java,python,js,ts&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,postman,vscode&theme=dark&perline=7" />
 
 </div>
 
@@ -136,22 +136,13 @@ Built hands-on skills in C#/.NET, EF Core, and REST APIs, then taught them — r
 
 <br/>
 
-<details>
-<summary>🐍 Optional bonus: animated contribution snake</summary>
-<br/>
+## 🐍 Contribution Snake
 
-GitHub can render an animated "snake" eating your contribution graph, generated for free by a GitHub Action. To add it:
+<div align="center">
+<img src="https://raw.githubusercontent.com/URLeeo/URLeeo/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating contribution graph" width="100%" />
+</div>
 
-1. Add the included `snake.yml` file to `.github/workflows/snake.yml` in your `URLeeo/URLeeo` repo.
-2. Push it — the action runs on a schedule and on push, and publishes an SVG to an `output` branch.
-3. Add this to your README once the first run completes:
-
-```md
-<img src="https://raw.githubusercontent.com/URLeeo/URLeeo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-```
-
-It's styled to match the same navy/steel-blue palette as the rest of this README.
-</details>
+<sub>One-time setup: add the paired `snake.yml` workflow file to `.github/workflows/snake.yml` in your `URLeeo/URLeeo` repo and push. A GitHub Action then regenerates this animation daily on an `output` branch — nothing else to maintain.</sub>
 
 <br/>
 
