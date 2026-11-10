@@ -61,16 +61,6 @@ aslan@dev:~$ cat about.txt
 
 <br/>
 
-## 💬 Random Dev Wisdom
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="a random programming quote, refreshes on every profile visit" />
-</div>
-
-<sub align="center">Refreshes with a new quote every time someone opens the profile.</sub>
-
-<br/>
-
 ## 💼 Experience
 
 ```text
